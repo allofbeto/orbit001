@@ -25,4 +25,5 @@
 
 6. view/show all areas of success
 
-7. the ability to view performance metrics -->
+7. the ability to view performance metrics
+-->

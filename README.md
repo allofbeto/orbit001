@@ -1,4 +1,4 @@
-<!-- # README
+# README
 
 1. the ability to add new members 
     -first_name
@@ -26,4 +26,3 @@
 6. view/show all areas of success
 
 7. the ability to view performance metrics
--->
